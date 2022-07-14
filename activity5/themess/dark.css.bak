@@ -1,0 +1,157 @@
+#cover{
+	background-image: url("../picss/bg2.png");
+	background-repeat: repeat-y;
+	background-size: cover;
+	height: 250;
+	max-width: 99%;
+
+}
+body{
+	background-image: url("../picss/gure.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+br{
+	color: gray;
+	width: 99%;
+	height: 15px; 
+}
+p{
+	text-align: left;
+	font-family: Banschrift, Helvetica, Arial Bold;
+	color: white;
+	font-size: 20pt;
+	
+}
+p1{
+	text-align: left;
+	font-family: Banschrift, Helvetica, Arial Bold;
+	color: white;
+	font-size: 17pt;
+	
+}
+ul{
+	max-width: 90%;
+	text-align: left;
+	font-family: Banschrift, Helvetica, Arial Bold;
+	color: white;
+	font-size: 18pt;
+	
+}
+h1{
+	font-family: Banschrift, Helvetica, Arial Bold;
+	color: white;
+}
+h3{
+	font-family: Banschrift, Helvetica, Arial Bold;
+	color: white;
+}
+#navigator{
+	background-color: #343434;
+	text-align: center;
+	height: 30px;
+	width: 99%;
+	padding: 5px;
+}
+#navigator a{
+	font-family: Banschrift, Helvetica, Arial Bold;
+	color: White;
+	padding: 35px;
+	
+}
+div.scrollmenu {
+  background-color: Dark gray;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+padding: 0;
+  text-decoration: none;
+}
+div.scrollmenus {
+  background-color: Dark gray;
+  overflow: auto;
+  white-space: nowrap;
+}
+div.scrollmenus a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 50px;
+  text-decoration: none;
+  border-color: white;
+}
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+.showcase{
+	object-fit: scale-down;
+	height:500;
+	width: 100%;
+	margin: auto;
+	padding: auto;
+	border: auto;
+}
+#picss{
+	background-repeat: no-repeat;
+    display: block;
+	width: 278px;   
+	height: 350px;
+    border: 5px solid gold;
+	float: left;
+}
+#desc{
+	background-repeat: no-repeat;
+    display: block;
+	width: 380px;   
+	height: 250px;
+    border: 5px solid gray;
+	float: left;
+}
+#gow{
+text-align:right;
+margin:15px;
+}
+img {
+	float: right;
+}
+.button-link {
+    height:30px;
+    padding: 10px 15px;
+    background: black;
+    color: #FFF;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border: solid 1px #20538D;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+.button-link:hover {
+    background: #356094;
+    border: solid 1px #2A4E77;
+    text-decoration: none;
+}
+table, th, td {
+	
+  border: 1px solid white;
+  border-color: white;
+  border-radius: 10px;
+  border-spacing: 10px
+  
+}
+th, td {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+}
+td{
+	background-color: black
+}

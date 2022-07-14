@@ -1,0 +1,99 @@
+#cover{
+	background-image: url("../picss/bg2.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 250;
+	max-width: 100%;
+}
+body{
+	background-color: #101010;
+	background-size: cover;
+	background-attachment: fixed;
+}
+br{
+	color: gray;
+	width: 100%;
+	height: 15px; 
+}
+p{
+	text-align: left;
+	font-family: Helvetica, Arial Bold;
+	color: white;
+	font-size: 20pt;
+	
+}
+ul{
+	max-width: 90%;
+	text-align: left;
+	font-family: Helvetica, Arial Bold;
+	color: white;
+	font-size: 18pt;
+	
+}
+h1{
+	font-family: Eurostile, Helvetica, Arial Bold;
+	color: white;
+}
+h3{
+	font-family: Eurostile, Helvetica, Arial Bold;
+	color: white;
+}
+#navigator{
+	background-color: maroon;
+	text-align: center;
+	height: 30;
+	width: 99%;
+	padding: 5px;
+}
+#navigator a{
+	font-family: Eurostile, Helvetica, Arial Bold;
+	color: White;
+	padding: 35px;
+}
+div.scrollmenu {
+  background-color: Dark gray;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 70px;
+  text-decoration: none;
+}
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+.showcase{
+	object-fit: scale-down;
+	height:500;
+	width: 100%;
+	margin: auto;
+	padding: auto;
+	border: auto;
+}
+#picss{
+	background-repeat: no-repeat;
+    display: block;
+	width: 278px;   
+	height: 350px;
+    border: 5px solid gold;
+	float: left;
+}
+#desc{
+	background-repeat: no-repeat;
+    display: block;
+	width: 380px;   
+	height: 250px;
+    border: 5px solid gray;
+	float: left;
+}
+#gow{
+text-align:right;
+margin:15px;
+}
+img {
+	float: right;
+}

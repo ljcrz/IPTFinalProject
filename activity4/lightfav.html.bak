@@ -1,0 +1,83 @@
+<html>
+	<head>
+		<title>LJ's WEBSITE</title>
+		<link rel = "stylesheet" href = "themess/light.css">
+	</head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<body>
+<div>
+	<div id = "cover">
+		<div id = "logo"></div>
+	</div>
+	
+	<div id = "navigator">
+		<a href = "index.html">HOME</a>
+		<a href = "lightuser.html">ABOUT US</a>
+		
+		<a href = "darkfav.html">
+		<button type="button_icon" class="button">
+		<span class="button_icon">
+		<ion-icon size="large" name="moon"></ion-icon>
+		</span>
+		</button>
+		</a>
+	</div>
+
+	</br>
+	
+	<div>
+		<h1>MY TOP 5 WEBSITES
+	</div>
+	
+	<div class="scrollmenu">
+		<table>
+			<tr>
+				<td>
+					<a href = "https://meet.google.com" target = "_blank">
+					<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Google_Meet_icon_%282020%29.svg/2491px-Google_Meet_icon_%282020%29.svg.png" style = "float: left" width = "230" height = "200"></a>
+				</td>
+				<td>
+					<a href = "https://classroom.google.com" target = "_blank">
+					<img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimg.talkandroid.com%2Fuploads%2F2015%2F01%2Fgoogle_classroom_app_icon.png&f=1&nofb=1" style = "float: left" width = "230" height = "230"></a>
+				</td>
+				<td>
+					<a href = "https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web" target = "_blank">
+					<img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F5f%2FMicrosoft_Office_logo_(2019%25E2%2580%2593present).svg%2F1200px-Microsoft_Office_logo_(2019%25E2%2580%2593present).svg.png&f=1&nofb=1" style = "float: left" width = "230" height = "230"></a>
+				</td>
+				<td>
+					<a href = "https://www.google.com/photos/about/" target = "_blank">
+					<img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2FLogos%2Fgoogle_photos1600.png&f=1&nofb=1" style = "float: left" width = "230" height = "230">
+					</a>
+				</td>
+				<td>
+					<a href = "https://www.bilibili.tv/en" target = "_blank">
+					<img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F9050713%2F39107515-619773e0-46f5-11e8-9fa9-2859816f1c42.png&f=1&nofb=1" style = "float: left" width = "230" height = "230">
+				</td>
+			</tr>
+			<tr>
+				<td>
+				<p>Google Meet (formerly known as Hangouts Meet) is a video-communication service developed by Google. It is one of two apps that constitute the replacement for Google Hangouts, the other being Google Chat.</p>
+				</td>
+				<td>
+				<p>Google Classroom is a free blended learning platform developed by Google for educational institutions that aims to simplify creating, distributing, and grading assignments. The primary purpose of Google Classroom is to streamline the process of sharing files between teachers and students.</p>
+				</td>
+				<td>
+				<p>Office on the web is a free lightweight web version of Microsoft Office and primarily includes three web applications: Word, Excel and PowerPoint. </p>
+				</td>
+				<td>
+				<p>Google Photos is a photo sharing and storage service developed by Google. It was announced in May 2015 and spun off from Google+, the company's former social network.</p>
+				</td>
+				<td>
+				<p>Bili-Bili is a free streaming website that produces free content worldwire.</p>
+				</td>
+			</tr>
+		</table>
+	</div>
+
+</div>
+
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+</html>

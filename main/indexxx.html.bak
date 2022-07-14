@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPT FINAL PROJECT</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<center><p style= "Font-size:60px; color:white;"> FINAL PROJECT </p></center>
+<div class="table_responsive">
+    <table>
+      <thead>
+        <tr>
+          <th>ACTIVITY NUMBER</th>
+
+
+ 
+          <th>links</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><p style= "Font-family:arial; Font-size:100px; color:black;"> 1 </p></td>
+
+
+          <td>
+            <span class="action_btn">
+              <a href="#">HTML</a>
+              <a href="https://youtu.be/ui5CTRo1_PE" target = "_blank">YouTube</a>
+            </span>
+          </td>
+        </tr>
+		
+		 
+
+        <tr>
+          <td><p style= "Font-family:arial; Font-size:100px; color:black;"> 2 </p></td>
+
+
+          <td>
+            <span class="action_btn">
+              <a href="C:\Users\ljcru\Desktop\IPTProjectCruzBSIT2H\activity2\CruzHTMLAct2.html" target = "_blank">HTML</a>
+              <a href="https://youtu.be/-WQq8XKoVgA" target = "_blank">YouTube</a>
+            </span>
+          </td>
+        </tr>
+		
+		       <tr>
+          <td><p style= "Font-family:arial; Font-size:100px; color:black;"> 3 </p></td>
+
+
+          <td>
+            <span class="action_btn">
+              <a href="C:\Users\ljcru\Desktop\IPTProjectCruzBSIT2H\activity3\CruzHTMLAct3.html" target = "_blank">HTML</a>
+              <a href="https://youtu.be/_gix3hAGrfE" target = "_blank">YouTube</a>
+            </span>
+          </td>
+        </tr>
+		
+		<tr>
+          <td><p style= "Font-family:arial; Font-size:100px; color:black;"> 4 </p></td>
+
+
+          <td>
+            <span class="action_btn">
+              <a href="C:\Users\ljcru\Desktop\IPTProjectCruzBSIT2H\activity4\index.html" target = "_blank">HTML</a>
+              <a href="https://youtu.be/-7DyH_ViIlk" target = "_blank">YouTube</a>
+            </span>
+          </td>
+        </tr>
+		
+				<tr>
+          <td><p style= "Font-family:arial; Font-size:100px; color:black;"> 5 </p></td>
+
+
+          <td>
+            <span class="action_btn">
+              <a href="C:\Users\ljcru\Desktop\IPTProjectCruzBSIT2H\activity5\indeks.html" target = "_blank">HTML</a>
+              <a href="https://youtu.be/ZBr1kZxTu9g" target = "_blank">YouTube</a>
+            </span>
+          </td>
+        </tr>
+		
+
+
+      </tbody>
+    </table>
+  </div>
+</div>
+</body>
+</html>

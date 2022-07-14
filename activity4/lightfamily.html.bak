@@ -1,0 +1,56 @@
+ <html>
+	<head>
+		<title>LJ's WEBSITE</title>
+		<link rel = "stylesheet" href = "themess/light.css">
+	</head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<body>
+<div>
+	<div id = "cover">
+		<div id = "logo"></div>
+	</div>
+	
+	<a href = "darkfamily.html">
+		<button type="button_icon" class="button">
+		<span class="button_icon">
+		<ion-icon size="large" name="moon"></ion-icon>
+		</span>
+		</button>
+		</a>
+</div>
+
+<h1><font color="Black" size="7" face="Helvetica"/><center>My Family and Loved ones</center></h1>
+
+<table border-color = "#000000" border = "1" cellpadding = "10" cellspacing = "5" >
+<tr>
+	<td>
+		<table border-color = "#000000" border = "1" cellpadding = "10" cellspacing = "5" >
+		<img src = "C:\Users\ljcru\Desktop\midata\school\cdm 2ndyear\2nd sem\copy to new\picss\lj.jpg" style= "float: left" width = "300" height = "350"></a>
+		<p></p>
+		<a href="#">Show more</a>
+		</table>
+	</td>
+		<td>
+		<table table border-color = "#000000" border = "1" cellpadding = "10" cellspacing = "5" >
+		<img src = "C:\Users\ljcru\Desktop\midata\school\cdm 2ndyear\2nd sem\copy to new\picss\lj.jpg" style= "float: left" width = "300" height = "350"></a>
+		<p></p>
+		<a href="#">Show more</a>
+		</table>
+	</td>
+		<td>
+		<table table border-color = "#000000" border = "1" cellpadding = "10" cellspacing = "5" >
+		<img src = "C:\Users\ljcru\Desktop\midata\school\cdm 2ndyear\2nd sem\copy to new\picss\lj.jpg" style= "float: left" width = "300" height = "350"></a>
+		<p></p>
+		<a href="#">Show more</a>
+		</table>
+	</td>
+</tr>
+</table>
+
+
+
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+</html>

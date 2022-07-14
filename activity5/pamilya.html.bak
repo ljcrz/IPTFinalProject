@@ -1,0 +1,77 @@
+<html>
+	<head>
+		<title>LJ's WEBSITE</title>
+		<link rel = "stylesheet" href = "themess/dark.css">
+	</head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<body>
+<div>
+	<div id = "cover">
+		<div id = "logo"></div>
+	</div>
+	
+	<div id = "navigator">
+		<a href = "indeks.html">HOME</a>
+		<a href = "yuser.html">ABOUT ME</a>
+		<a href = "peborit.html">FAVORITES</a>
+	</div>
+	
+	
+	<h1><center>FRIENDS AND FAMILIES</center></h1>
+	
+		<pre>&nbsp;</pre>
+	<pre>&nbsp;</pre>
+	<pre>&nbsp;</pre>
+
+
+		<table>
+			<tr>	<td>
+					<img src = "C:\Users\ljcru\Desktop\act5\picss\nanays.jpeg" style = "float: left" width = "300" height = "300"></a>
+				</td>
+				<td>
+					<img src = "C:\Users\ljcru\Desktop\act5\picss\ludez.jpg" style = "float: left" width = "300" height = "300"></a>
+				</td>
+				<td>
+					<img src = "C:\Users\ljcru\Desktop\act5\picss\billy.jpg" style = "float: left" width = "300" height = "300"></a>
+				</td>
+				<td>
+					<img src = "C:\Users\ljcru\Desktop\act5\picss\shanne.jpg" style = "float: left" width = "300" height = "300">
+					</a>
+				</td>
+			</tr>
+
+	</div>
+	
+				<tr>
+				<td>
+				<p1>This is my loving and thoughful nanay, nanay vina. When she was still alive, I used to push her in a wheel chair when we are going to church to attend worship service. Just to share, she was a beauty queen. She is truly beautiful inside and out.</p>
+				<a class="button-link" href="nanay.html">see more</a>
+				</td>
+				<td>
+				<p1>This is my mom Odette. She's 48 years old in this picture, everyone thought she in her 25's. She is 56 now. Talented singer that travels around asia to sing.</p>
+				<a class="button-link" href="mama.html">see more</a>
+				</td>
+				<td>
+				<p1>This is my dad. He left me when im got just born with many sickness he has no responsibility. But in the recent years we get along each other and sort things out so i still call him dad. I got to forgive my own father because no one knows how my life will end up.</p>
+				<a class="button-link" href="papa.html">see more</a>
+				</td>
+				<td>
+				<p1> Shane is my Girlfriend i met in 2015 in highschool She is just 10 days older than me. She is a BS in Computer Engineering student here in Colegio de Montalban with the same year as I am. I must say that she the most hardworking, God fearing woman because of her being active in church and school.</p>
+				<a class="button-link" href="gf.html">see more</a>
+				</td>
+			</tr>
+		</table>
+
+	
+	<pre>&nbsp;</pre>
+	<pre>&nbsp;</pre>
+	<pre>&nbsp;</pre>
+
+
+
+
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+</html>
